@@ -1,6 +1,6 @@
 # TESS Multi-Exoplanet Validation
 
-Code and derived results accompanying the research manuscript **“Validation and Physical Characterization of Seven TESS Exoplanets: A Compact Multi-Planet System and Targets for Atmospheric Spectroscopy”** (Biel Escola-Rodrigo, 2026).
+Code and derived results accompanying the research manuscript **“Validation and Physical Characterization of Seven TESS Exoplanets: A Compact Multi-Planet System and Targets for Atmospheric Spectroscopy”** (Biel Escolà-Rodrigo, 2026).
 
 ## Overview
 
