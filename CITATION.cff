@@ -7,5 +7,4 @@ authors:
     given-names: "Biel"
 repository-code: "https://github.com/biesro/TESS-Multi-Exoplanet-Validation"
 version: "1.0.0"
-# After the Zenodo release exists, add its version-specific DOI:
-# doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.24348805"
