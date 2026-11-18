@@ -1,5 +1,9 @@
 # TESS Multi-Exoplanet Validation
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+
 Code and derived results accompanying the research manuscript **“Validation and Physical Characterization of Seven TESS Exoplanets: A Compact Multi-Planet System and Targets for Atmospheric Spectroscopy”** (Biel Escolà-Rodrigo, 2026).
 
 ## Overview
