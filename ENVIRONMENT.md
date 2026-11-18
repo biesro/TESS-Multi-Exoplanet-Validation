@@ -68,3 +68,20 @@ Before declaring end-to-end reproducibility, add or confirm for each analysis st
 5. Which archived outputs generated each manuscript table and figure.
 
 This file deliberately does not invent commands for scripts that have not yet been inspected.
+
+### Conda-forge and pip dependency compatibility
+
+The `astro_data_v5` environment required additional dependency management during installation on a new Windows machine.
+
+An initial installation using pip resulted in dependency-resolution issues involving `ultranest` and related packages. To resolve these conflicts, the affected packages were removed and reinstalled using the `conda-forge` channel.
+
+**For reproducing this environment:**
+
+1. Attempt to create the environment using the provided `astro_data_v5.yml` file.
+2. If dependency resolution or installation fails, pay particular attention to `ultranest` and its associated dependencies.
+3. Use `conda-forge` to install the affected scientific packages and their compatible dependencies, rather than repeatedly forcing conflicting pip installations.
+4. Verify the installed package versions against the exported YAML file.
+
+The YAML file represents the final working environment, but may not fully reproduce the manual installation sequence required to resolve these dependencies.
+
+The `triceratops_plus` environment did not require this additional installation procedure during the author's setup.
