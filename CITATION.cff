@@ -3,7 +3,7 @@ message: "If you use this repository, please cite the archived software release 
 type: software
 title: "TESS Multi-Exoplanet Validation"
 authors:
-  - family-names: "Escola-Rodrigo"
+  - family-names: "Escolà-Rodrigo"
     given-names: "Biel"
 repository-code: "https://github.com/biesro/TESS-Multi-Exoplanet-Validation"
 version: "1.0.0"
