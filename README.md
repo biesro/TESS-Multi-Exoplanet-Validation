@@ -65,11 +65,11 @@ The repository preserves research scripts organized by target. It is **not** cur
 
 The underlying TESS photometric observations are publicly available through [MAST](https://mast.stsci.edu/). Scripts and selected derived outputs are contained in this repository. Refer to the manuscript for the observational sectors and methodology.
 
-## Citation and archived release
+## Citation
 
-An archival release of this repository will be deposited on Zenodo. **Add the version-specific Zenodo DOI here after the first release is archived.** An arXiv link will likewise be added after the preprint is assigned an identifier.
+If you use the code or derived results from this repository, please cite the archived software release on Zenodo and the associated research manuscript, as appropriate.
 
-If you reuse this repository, please cite the specific archived software version and the associated manuscript where appropriate.
+Citation metadata are provided in [CITATION.cff](CITATION.cff).
 
 ## License
 
