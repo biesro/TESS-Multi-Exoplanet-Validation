@@ -1,0 +1,41 @@
+======================================================================
+FULL CHARACTERIZATION REPORT — TOI_4450_01
+======================================================================
+
+TARGET         : TIC 373017346 / TOI 4450.01
+Classification : Warm Neptune-sized
+
+STELLAR HOST PARAMETERS:
+  Teff   = 5844.0 ± 134.577 K
+  M*     = 1.054 ± 0.128222 M_sun
+  R*     = 1.15 ± 0.06 R_sun
+  log g  = 4.34318 ± 0.0769439 (cgs)
+  [Fe/H] = 0.26 ± 0.08
+  mag_J  = 9.963 (2MASS)
+
+ORBITAL PARAMETERS:
+  P                             : 10.6924721 +0.0000208 -0.0000204 days
+  T0                            : 2459396.332879 +0.001342 -0.001380 BJD_TDB
+  e                             : 0.0 (fixed circular)
+  a (median)                    : 0.0987 +0.0080 -0.0077 AU
+  a (MAP)                       : 0.0980 AU  [MAP]
+  b                             : 0.6066 +0.0606 -0.0692 
+
+PLANETARY PHYSICAL PROPERTIES:
+  Rp (median)                   : 0.3829 +0.0220 -0.0213 R_Jup
+  Rp (MAP)                      : 0.3798 R_Jup  [MAP]
+  Rp (median)                   : 4.29 +0.25 -0.24 R_Earth
+  Mp (median)                   : 0.0540 +0.0425 -0.0244 M_Jup
+  Mp (MAP)                      : 0.0398 M_Jup  [MAP]
+  Mp (median)                   : 17.1 +13.5 -7.8 M_Earth
+  rho_p (median)                : 1180.3 +926.5 -515.1 kg/m³
+  rho_p (MAP)                   : 865.6 kg/m³  [MAP]
+
+TEMPERATURE AND ATMOSPHERE:
+  T_eq (median)                 : 879 +35 -32 K
+  T_eq (MAP)                    : 879 K  [MAP]
+  H (median)                    : 350 +269 -154 km
+  F_p                           : 142 +24 -20 F_Earth
+
+ATMOSPHERIC OBSERVABILITY:
+  TSM = 35.8

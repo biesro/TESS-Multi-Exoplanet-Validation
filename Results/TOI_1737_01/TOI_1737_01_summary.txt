@@ -1,0 +1,41 @@
+======================================================================
+FULL CHARACTERIZATION REPORT — TOI_1737_01
+======================================================================
+
+TARGET         : TIC 233009109 / TOI 1737.01
+Classification : Hot Sub-Neptune / Mini-Neptune
+
+STELLAR HOST PARAMETERS:
+  Teff   = 6669.0 ± 127.5 K
+  M*     = 1.408 ± 0.237152 M_sun
+  R*     = 1.95 ± 0.08 R_sun
+  log g  = 4.01 ± 0.1 (cgs)
+  [Fe/H] = 0.081 ± 0.08
+  mag_J  = 8.133 (2MASS)
+
+ORBITAL PARAMETERS:
+  P                             : 14.4480091 +0.0000184 -0.0000168 days
+  T0                            : 2458717.013000 +0.001117 -0.001247 BJD_TDB
+  e                             : 0.0 (fixed circular)
+  a (median)                    : 0.1334 +0.0093 -0.0103 AU
+  a (MAP)                       : 0.1346 AU  [MAP]
+  b                             : 0.5231 +0.0835 -0.0900 
+
+PLANETARY PHYSICAL PROPERTIES:
+  Rp (median)                   : 0.2903 +0.0129 -0.0126 R_Jup
+  Rp (MAP)                      : 0.2902 R_Jup  [MAP]
+  Rp (median)                   : 3.25 +0.14 -0.14 R_Earth
+  Mp (median)                   : 0.0335 +0.0264 -0.0144 M_Jup
+  Mp (MAP)                      : 0.0251 M_Jup  [MAP]
+  Mp (median)                   : 10.6 +8.4 -4.6 M_Earth
+  rho_p (median)                : 1703.2 +1309.6 -742.6 kg/m³
+  rho_p (MAP)                   : 1263.7 kg/m³  [MAP]
+
+TEMPERATURE AND ATMOSPHERE:
+  T_eq (median)                 : 1124 +44 -37 K
+  T_eq (MAP)                    : 1117 K  [MAP]
+  H (median)                    : 409 +315 -177 km
+  F_p                           : 381 +64 -48 F_Earth
+
+ATMOSPHERIC OBSERVABILITY:
+  TSM = 29.0

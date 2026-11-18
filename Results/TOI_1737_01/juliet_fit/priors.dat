@@ -1,0 +1,13 @@
+rho                  normal               267.6997439610108,55.844249610977464
+P_p1                 normal               14.447995,0.001     
+t0_p1                normal               1717.0139999999665,0.005
+p_p1                 uniform              0.003130495168499706,0.03913118960624632
+b_p1                 uniform              0.0,0.99            
+ecc_p1               fixed                0.0                 
+omega_p1             fixed                90.0                
+ld_law_TESS          fixed                quadratic           
+q1_TESS              normal               0.348,0.05          
+q2_TESS              normal               0.246,0.05          
+mdilution_TESS       fixed                1.0                 
+mflux_TESS           normal               0.0,0.1             
+sigma_w_TESS         loguniform           0.1,10000.0         

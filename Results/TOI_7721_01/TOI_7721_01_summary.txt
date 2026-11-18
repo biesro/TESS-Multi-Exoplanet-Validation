@@ -1,0 +1,41 @@
+======================================================================
+FULL CHARACTERIZATION REPORT — TOI_7721_01
+======================================================================
+
+TARGET         : TIC 163029327 / TOI 7721.01
+Classification : Hot Sub-Saturn
+
+STELLAR HOST PARAMETERS:
+  Teff   = 5415.0 ± 126.137 K
+  M*     = 0.94 ± 0.112493 M_sun
+  R*     = 0.9493 ± 0.0548 R_sun
+  log g  = 4.45636 ± 0.0817619 (cgs)
+  [Fe/H] = 0.0 ± 0.5
+  mag_J  = 11.614 (2MASS)
+
+ORBITAL PARAMETERS:
+  P                             : 2.5642957 +0.0000561 -0.0000564 days
+  T0                            : 2461046.355845 +0.000973 -0.001127 BJD_TDB
+  e                             : 0.0 (fixed circular)
+  a (median)                    : 0.0372 +0.0032 -0.0030 AU
+  a (MAP)                       : 0.0370 AU  [MAP]
+  b                             : 0.5351 +0.0774 -0.0883 
+
+PLANETARY PHYSICAL PROPERTIES:
+  Rp (median)                   : 0.6417 +0.0393 -0.0390 R_Jup
+  Rp (MAP)                      : 0.6356 R_Jup  [MAP]
+  Rp (median)                   : 7.19 +0.44 -0.44 R_Earth
+  Mp (median)                   : 0.1344 +0.1377 -0.0623 M_Jup
+  Mp (MAP)                      : 0.1649 M_Jup  [MAP]
+  Mp (median)                   : 42.7 +43.8 -19.8 M_Earth
+  rho_p (median)                : 644.1 +638.9 -297.4 kg/m³
+  rho_p (MAP)                   : 723.0 kg/m³  [MAP]
+
+TEMPERATURE AND ATMOSPHERE:
+  T_eq (median)                 : 1207 +47 -44 K
+  T_eq (MAP)                    : 1200 K  [MAP]
+  H (median)                    : 529 +450 -266 km
+  F_p                           : 505 +83 -69 F_Earth
+
+ATMOSPHERIC OBSERVABILITY:
+  TSM = 63.8
