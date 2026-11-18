@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived software release and accompanying manuscript."
+type: software
+title: "TESS Multi-Exoplanet Validation"
+authors:
+  - family-names: "Escola-Rodrigo"
+    given-names: "Biel"
+repository-code: "https://github.com/biesro/TESS-Multi-Exoplanet-Validation"
+version: "1.0.0"
+# After the Zenodo release exists, add its version-specific DOI:
+# doi: "10.5281/zenodo.XXXXXXX"
